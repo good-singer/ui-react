@@ -1,5 +1,10 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+// import React from 'react';
+// import ReactDOM from 'react-dom';
 import Button from './button'
 
-ReactDOM.render(<Button />, document.body);
+const a = 1
+console.log(1)
+
+
+// ReactDOM.render(<Button />, document.body);
+export { Button, a }
